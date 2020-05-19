@@ -1,0 +1,943 @@
+﻿[Text]
+LANGUAGE=Magyar (Transiflex)
+
+OPTION_VALUE_CATALAN=Katalán
+OPTION_VALUE_CHINESE=Kínai
+OPTION_VALUE_CROATIAN=Horvát
+OPTION_VALUE_CZECH=Cseh
+OPTION_VALUE_DANISH=Dán
+OPTION_VALUE_DUTCH=Holland
+OPTION_VALUE_ENGLISH=Angol
+OPTION_VALUE_EUSKARA=Baszk
+OPTION_VALUE_FINNISH=Finn
+OPTION_VALUE_FRENCH=Francia
+OPTION_VALUE_GAELIC=Skót gél
+OPTION_VALUE_GALICIAN=Galíciai
+OPTION_VALUE_GERMAN=Német
+OPTION_VALUE_GREEK=Görög
+OPTION_VALUE_HUNGARIAN=Magyar
+OPTION_VALUE_ICELANDIC=Izlandi
+OPTION_VALUE_ITALIAN=Olasz
+OPTION_VALUE_JAPANESE=Japán
+OPTION_VALUE_LUXEMBOURGISH=Luxemburgi
+OPTION_VALUE_NORWEGIAN=Norvég
+OPTION_VALUE_POLISH=Lengyel
+OPTION_VALUE_PORTUGUESE=Portugál
+OPTION_VALUE_ROMANIAN=Román
+OPTION_VALUE_RUSSIAN=Orosz
+OPTION_VALUE_SERBIAN=Szerb
+OPTION_VALUE_SLOVAK=Szlovák
+OPTION_VALUE_SLOVENIAN=Szlovén
+OPTION_VALUE_SPANISH=Spanyol
+OPTION_VALUE_SWEDISH=Svéd
+
+OPTION_VALUE_EASY=Könnyű
+OPTION_VALUE_MEDIUM=Normál
+OPTION_VALUE_HARD=Nehéz
+
+OPTION_VALUE_ON=Be
+OPTION_VALUE_OFF=Ki
+
+OPTION_VALUE_EDITION=Verzió
+OPTION_VALUE_GENRE=Műfaj
+OPTION_VALUE_LANGUAGE=Nyelv
+OPTION_VALUE_FOLDER=Mappa
+OPTION_VALUE_TITLE=Cím
+OPTION_VALUE_ARTIST=Előadó
+OPTION_VALUE_TITLE2=Cím 2
+OPTION_VALUE_ARTIST2=Előadó 2
+OPTION_VALUE_YEAR=Év
+OPTION_VALUE_DECADE=Évtized
+OPTION_VALUE_PLAYLIST=Dallista
+
+OPTION_VALUE_BORDERLESS=Keret nélkül
+
+OPTION_VALUE_WHENNOVIDEO=Ha nincs videó
+OPTION_VALUE_WHENNOVIDEOANDIMAGE=Ha nincs videó és kép
+
+OPTION_VALUE_SMALL=Kicsi
+OPTION_VALUE_BIG=Nagy
+
+OPTION_VALUE_HALF=Felezve
+OPTION_VALUE_FULL_VID=Teljes (Videó)
+OPTION_VALUE_FULL_VID_BG=Teljes (Háttér + Videó)
+
+OPTION_VALUE_GAIN_SOFT=Halk
+OPTION_VALUE_GAIN_MEDIUM=Közepes
+OPTION_VALUE_GAIN_HARD=Hangos
+
+OPTION_VALUE_AUTO=Automatikus
+OPTION_VALUE_SEC=Másodperc
+OPTION_VALUE_SECS=Másodperc
+
+OPTION_VALUE_REGULAR=Egyszerű
+OPTION_VALUE_BOLD=Félkövér
+OPTION_VALUE_TEXTOUTLINE=Körvonalas betűk
+
+OPTION_VALUE_SIMPLE=Sima kiemeléssel
+OPTION_VALUE_ZOOM=Nagyítás kiemeléssel
+OPTION_VALUE_SLIDE=Csúszka
+OPTION_VALUE_BALL=Labda
+OPTION_VALUE_SHIFT=Megemelt kiemeléssel
+
+OPTION_VALUE_EURO=Euro
+OPTION_VALUE_JAPAN=Japán
+OPTION_VALUE_AMERICAN=Amerikai
+
+OPTION_VALUE_BLUE=Kék
+OPTION_VALUE_GREEN=Zöld
+OPTION_VALUE_PINK=Rózsaszín
+OPTION_VALUE_RED=Piros
+OPTION_VALUE_VIOLET=Lila
+OPTION_VALUE_ORANGE=Narancs
+OPTION_VALUE_YELLOW=Sárga
+OPTION_VALUE_BROWN=Barna
+OPTION_VALUE_BLACK=Fekete
+
+OPTION_VALUE_SING=Dalválasztás
+OPTION_VALUE_SELECT_PLAYERS=Játékos választás
+OPTION_VALUE_OPEN_MENU=Menü megnyitása
+
+OPTION_VALUE_SYSTEM_CURSOR=Be [ Rendszer kurzor ]
+OPTION_VALUE_GAME_CURSOR=Be [ Játék kurzor ]
+OPTION_VALUE_HARDWARE_CURSOR=Hardver Kurzor
+OPTION_VALUE_SOFTWARE_CURSOR=Softver Kurzor
+
+SING_LOADING=Betöltés...
+
+SING_CHOOSE_MODE=Válassz menüpontot
+SING_SING=Ének
+SING_SING_DESC=Énekelj egyedül vagy duettet
+
+SING_MULTI=Buli
+SING_MULTI_DESC=Énekelj buli módban
+
+SING_TOOLS=Eszközök
+
+SING_STATS=Statisztika
+SING_STATS_DESC=Nézd meg a statisztikát
+
+SING_EDITOR=Szerkesztő
+SING_EDITOR_DESC=Készíts saját zenét
+SING_EDITOR_WHEREAMI=Szerkesztés
+
+SING_GAME_OPTIONS=Játék beállításai
+SING_GAME_OPTIONS_DESC=Változtasd meg a beállításokat
+
+SING_EXIT=Kilépés
+SING_EXIT_DESC=Kilépés a játékból
+
+SING_OPTIONS=Beállítások
+SING_OPTIONS_DESC=Beállítások megváltoztatása
+SING_OPTIONS_WHEREAMI=Beállítások
+
+SING_OPTIONS_GAME=Játék
+SING_OPTIONS_GRAPHICS=Grafika
+SING_OPTIONS_SOUND=Hang
+SING_OPTIONS_INPUT=Bemenet
+SING_OPTIONS_LYRICS=Dalszöveg
+SING_OPTIONS_THEMES=Sablon
+SING_OPTIONS_RECORD=Mikrofon
+SING_OPTIONS_ADVANCED=Haladó
+SING_OPTIONS_EXIT=Vissza
+
+SING_OPTIONS_GAME_WHEREAMI=Játék beállításai
+SING_OPTIONS_GAME_DESC=Játék beállítása
+SING_OPTIONS_GAME_PLAYERS=Játékosok
+SING_OPTIONS_GAME_DIFFICULTY=Nehézség
+SING_OPTIONS_GAME_LANGUAGE=Nyelv
+SING_OPTIONS_GAME_TABS=Elválasztók
+SING_OPTIONS_GAME_SORTING=Rendezés
+SING_OPTIONS_GAME_DEBUG=Hibakezelő mód
+SING_OPTIONS_GAME_AVDELAY=Média késleltetés
+SING_OPTIONS_GAME_MICDELAY=Mikrofon késleltetés
+
+SING_OPTIONS_GRAPHICS_WHEREAMI=Grafika beállításai
+SING_OPTIONS_GRAPHICS_DESC=Grafika beállítása
+SING_OPTIONS_GRAPHICS_RESOLUTION=Felbontás
+SING_OPTIONS_GRAPHICS_FULLSCREEN=Teljes képernyő
+SING_OPTIONS_GRAPHICS_DEPTH=Színmélység
+SING_OPTIONS_GRAPHICS_VISUALIZER=Hatás
+SING_OPTIONS_GRAPHICS_OSCILLOSCOPE=Oszcilloszkóp
+SING_OPTIONS_GRAPHICS_LINEBONUS=Sáv bónusz
+SING_OPTIONS_GRAPHICS_MOVIE_SIZE=Videó mérete
+
+SING_OPTIONS_SOUND_WHEREAMI=Hang beállításai
+SING_OPTIONS_SOUND_DESC=Hangok beállítása
+SING_OPTIONS_SOUND_VOICEPASSTHROUGH=Mikrofonhang hallása
+SING_OPTIONS_SOUND_BACKGROUNDMUSIC=Háttérzene
+SING_OPTIONS_SOUND_MIC_BOOST=Mikrofon erősítése
+SING_OPTIONS_SOUND_CLICK_ASSIST=Ütem segítség
+SING_OPTIONS_SOUND_BEAT_CLICK=Ütem
+SING_OPTIONS_SOUND_THRESHOLD=Tűréshatár
+SING_OPTIONS_SOUND_TWO_PLAYERS_MODE=Két játékos mód
+SING_OPTIONS_SOUND_MUSICAUTOGAIN=Zene auto. erősítése
+SING_OPTIONS_SOUND_PREVIEWVOLUME=Előzetes hang
+SING_OPTIONS_SOUND_PREVIEWFADING=Előzetes hang késése
+
+SING_OPTIONS_INPUT_WHEREAMI=Bemenet beállításai
+SING_OPTIONS_INPUT_DESC=Bemenet beállítása
+SING_OPTIONS_INPUT_MOUSE=Egér
+SING_OPTIONS_INPUT_JOYPAD_SUPPORT=Vezérlő  támogatása
+
+SING_OPTIONS_LYRICS_WHEREAMI=Dalszöveg beállításai
+SING_OPTIONS_LYRICS_DESC=Dalszöveg beállítása
+SING_OPTIONS_LYRICS_FONT=Betűtípus
+SING_OPTIONS_LYRICS_STYLE=Stílus
+SING_OPTIONS_LYRICS_EFFECT=Effektek
+SING_OPTIONS_LYRICS_SOLMIZATION=Szolmizáció
+SING_OPTIONS_LYRICS_NOTELINES=Segédvonalak
+
+SING_OPTIONS_THEMES_WHEREAMI=Sablon beállításai
+SING_OPTIONS_THEMES_DESC=Sablon beállítása
+SING_OPTIONS_THEMES_THEME=Sablon
+SING_OPTIONS_THEMES_SKIN=Háttér
+SING_OPTIONS_THEMES_COLOR=Szín
+
+SING_OPTIONS_RECORD_WHEREAMI=Mikrofon beállításai
+SING_OPTIONS_RECORD_DESC=Mikrofon beállítása
+SING_OPTIONS_RECORD_CARD=Hangkártya
+SING_OPTIONS_RECORD_INPUT=Bemenet
+SING_OPTIONS_RECORD_CHANNEL=Csatorna
+SING_OPTIONS_RECORD_NOONE=Nincs
+SING_OPTIONS_RECORD_ASSIGNEE=Kijelölt játékos
+
+SING_OPTIONS_ADVANCED_WHEREAMI=Haladó beállítások
+SING_OPTIONS_ADVANCED_DESC=Haladó beállítások
+SING_OPTIONS_ADVANCED_EFFECTSING=Hang effektek
+SING_OPTIONS_ADVANCED_SCREENFADE=Háttér áttűnése
+SING_OPTIONS_ADVANCED_LOADANIMATION=Betöltési animáció
+SING_OPTIONS_ADVANCED_ASKBEFOREDEL=Megerősítést kér
+SING_OPTIONS_ADVANCED_LINEBONUS=Sáv bónusz
+SING_OPTIONS_ADVANCED_COUNT_HOW_OFTEN_SUNG=Éneklési beállítások speciális számlálója, hogy milyen gyakran énekelsz
+SING_OPTIONS_ADVANCED_ONSONGCLICK=Éneklés után
+SING_OPTIONS_ADVANCED_PARTYPOPUP=Bulimenü megj.
+
+SING_EDIT=Szerkesztő
+SING_EDIT_MENU_DESCRIPTION=Készíts saját zenét
+SING_EDIT_WHEREAMI=Szerkesztés
+
+SING_EDIT_BUTTON_DESCRIPTION_CONVERT=Importálj szöveget midiből
+SING_EDIT_BUTTON_DESCRIPTION_EXIT=Vissza
+SING_EDIT_BUTTON_CONVERT=Importálás
+SING_EDIT_BUTTON_EXIT=Vissza
+
+SING_EDIT_NAVIGATE=Navigálás
+SING_EDIT_SELECT=Választás
+SING_EDIT_EXIT=Vissza
+
+SING_EDIT_CONVERT=Midi konvertálása
+SING_EDIT_CONVERT_MENU_DESCRIPTION=Konvertálás MIDI fájlból UltraStar fájl formátumába
+SING_EDIT_CONVERT_TEXTDESCRIPTION=konvertálás MIDI fájlból UltraStar fájl formátumába
+SING_EDIT_CONVERT_NAVIGATE=Navigálás
+SING_EDIT_CONVERT_SELECT=Választás
+SING_EDIT_CONVERT_EXIT=Vissza
+SING_EDIT_CONVERT_WHEREAMI=MIDI konvertálása
+SING_EDIT_CONVERT_BUTTON_OPEN=Megnyitás
+SING_EDIT_CONVERT_BUTTON_PLAY=Lejátszás
+SING_EDIT_CONVERT_BUTTON_PLAYSELECTED=Kiv. lejátszás
+SING_EDIT_CONVERT_BUTTON_PAUSE=Szünet
+SING_EDIT_CONVERT_BUTTON_STOP=Állj
+SING_EDIT_CONVERT_BUTTON_SAVE=Mentés
+
+SING_EDIT_OPEN=Midi fájl megnyitása
+SING_EDIT_OPEN_MENU_DESCRIPTION=Midi fájl betöltése lemezről
+SING_EDIT_OPEN_TEXTDESCRIPTION=MIDI fájl betöltése lemezről
+SING_EDIT_OPEN_PATH=Helye:
+SING_EDIT_OPEN_NAVIGATE=Navigálás
+SING_EDIT_OPEN_SELECT=Választás
+SING_EDIT_OPEN_EXIT=Vissza
+SING_EDIT_OPEN_WHEREAMI=MIDI fájl megnyitása
+SING_EDIT_OPEN_BUTTON_LOAD=Betöltés
+SING_EDIT_OPEN_BUTTON_DESCRIPTION_LOAD=Betöltés
+SING_EDIT_OPEN_BUTTON_BACK=Vissza
+
+SING_LEGEND_SELECT=Választás
+SING_LEGEND_NAVIGATE=Navigálás
+SING_LEGEND_CONTINUE=Folytatás
+SING_LEGEND_ESC=Vissza
+
+SING_PLAYER_DESC=Kérem a játékos(ok) nevét
+SING_PLAYER_WHEREAMI=Játékos neve
+SING_PLAYER_ENTER_NAME=Név
+
+SING_DIFFICULTY_DESC=Nehézségi szint választása
+SING_DIFFICULTY_WHEREAMI=Nehézség
+SING_DIFFICULTY_CONTINUE=Dal kiválasztása
+SING_EASY=Könnyű
+SING_MEDIUM=Normál
+SING_HARD=Nehéz
+
+SING_SONG_SELECTION_DESC=Válassz dalt
+SING_SONG_SELECTION_WHEREAMI=Dal választása
+SING_SONG_SELECTION_GOTO=Keresés
+SING_SONG_SELECTION=Dal választása
+SING_SONG_SELECTION_MENU=Menü
+SING_SONG_SELECTION_PLAYLIST=Dallista
+SING_SONG_IN_CAT=Dal
+SING_SONGS_IN_CAT=Dalok
+PLAYLIST_CATTEXT=Dallista: %s
+
+SING_TIME=Idő
+SING_TOTAL=Összesen
+SING_MODE=Egyszeri játékos
+SING_NOTES=Hang
+SING_GOLDEN_NOTES=Arany pont
+SING_PHRASE_BONUS=Sáv bónusz
+
+SING_MENU=Főmenü
+
+SONG_SCORE=Dal pontok
+SONG_SCORE_WHEREAMI=Pontok
+
+SING_SCORE_TONE_DEAF=Pontszámok
+SING_SCORE_AMATEUR=Amatőr
+SING_SCORE_WANNABE=Álmodozó
+SING_SCORE_HOPEFUL=Feltörekvő
+SING_SCORE_RISING_STAR=Kezdő Sztár
+SING_SCORE_LEAD_SINGER=Főállású énekes
+SING_SCORE_SUPERSTAR=Szupersztár
+SING_SCORE_ULTRASTAR=Ultrasztár
+
+SING_TOP_5_CHARTS=Legjobb 5 játékos
+SING_TOP_5_CHARTS_WHEREAMI=Legjobb 5
+SING_TOP_5_CHARTS_CONTINUE=Dal kiválasztás
+SING_TOP_5_CHARTS_SWITCH_DIFFICULTY=Nehézségi szint
+
+POPUP_PERFECT=Hibátlan!
+POPUP_AWESOME=Nagyon jó!
+POPUP_GREAT=Elég Jó!
+POPUP_GOOD=Jó!
+POPUP_NOTBAD=Elmegy!
+POPUP_BAD=Rossz!
+POPUP_POOR=Gyenge!
+POPUP_AWFUL=Borzalmas!
+
+IMPLODE_GLUE1=,
+IMPLODE_GLUE2= és
+
+SONG_MENU_NAME_MAIN=Dal menü
+SONG_MENU_PLAY=Dal
+SONG_MENU_CHANGEPLAYERS=Váltó játékosok
+SONG_MENU_EDIT=Szerkeszt
+SONG_MENU_MODI=Énekelj egy midi-t
+SONG_MENU_CANCEL=Mégsem
+
+SONG_MENU_NAME_PLAYLIST=Dallista
+SONG_MENU_PLAYLIST_ADD=Hozzáad
+SONG_MENU_PLAYLIST_DEL=Töröl
+
+SONG_MENU_NAME_PLAYLIST_ADD=Hozzáad
+SONG_MENU_PLAYLIST_ADD_NEW=Új dallista
+SONG_MENU_PLAYLIST_ADD_EXISTING=Kilépés a dallistából
+SONG_MENU_PLAYLIST_NOEXISTING=Nem elérhető a dallista
+
+SONG_MENU_NAME_PLAYLIST_NEW=Új dallista
+SONG_MENU_PLAYLIST_NEW_CREATE=Létrehoz
+SONG_MENU_PLAYLIST_NEW_UNNAMED=Névtelen
+
+SONG_MENU_NAME_PLAYLIST_DELITEM=Biztosan törlöd?
+SONG_MENU_YES=Igen
+SONG_MENU_NO=Nem
+
+SONG_MENU_NAME_PLAYLIST_LOAD=Dallistát megnyit
+SONG_MENU_PLAYLIST_LOAD=Megnyit
+SONG_MENU_PLAYLIST_DELCURRENT=Törlöd a dallistát?
+
+SONG_MENU_NAME_PLAYLIST_DEL=Törlöd a dallistát?
+
+SONG_MENU_NAME_PARTY_MAIN=Buli Menü
+SONG_MENU_JOKER=Joker
+
+SONG_MENU_NAME_PARTY_JOKER=Joker felhasználása
+
+SONG_JUMPTO_DESC=Keresés
+SONG_JUMPTO_TYPE_DESC=Keresés:
+SONG_JUMPTO_TYPE1=Minden kategóriában
+SONG_JUMPTO_TYPE2=Cím alapján
+SONG_JUMPTO_TYPE3=Előadó neve alapján
+SONG_JUMPTO_TYPE4=Nyelv alapján
+SONG_JUMPTO_TYPE5=Verzió alapján
+SONG_JUMPTO_TYPE6=Műfaj alapján
+SONG_JUMPTO_TYPE7=Évszám alapján
+SONG_JUMPTO_TYPE8=Írója alapján
+SONG_JUMPTO_SONGSFOUND=%d ilyen dal található
+SONG_JUMPTO_NOSONGSFOUND=Nincs ilyen dal
+SONG_JUMPTO_HELP=Txt típusú fájl keresése
+SONG_JUMPTO_CATTEXT=Keresés: %s
+
+PARTY_MODE=Buli mód
+PARTY_DIFFICULTY=Nehézségi Szint
+PARTY_PLAYLIST=Listából éneklés
+PARTY_PLAYLIST_ALL=Minden dal
+PARTY_PLAYLIST_CATEGORY=Mappa
+PARTY_PLAYLIST_PLAYLIST=Dallista
+PARTY_TEAMS=Csapatok száma
+PARTY_TEAMS_PLAYER1=1. Játékos
+PARTY_TEAMS_PLAYER2=2. Játékos
+PARTY_TEAMS_PLAYER3=3. Játékos
+
+PARTY_LEGEND_CONTINUE=Folytatás
+
+PARTY_OPTIONS_DESC=Buli beállításai
+PARTY_OPTIONS_WHEREAMI=Buli Beállítások
+
+PARTY_PLAYER_DESC=Csapatok és nevek
+PARTY_PLAYER_WHEREAMI=Csapatok és nevek
+PARTY_PLAYER_ENTER_NAME=Nevek
+
+
+PARTY_ROUNDS_DESC=Válaszd ki milyen módban szeretnél játszani
+PARTY_ROUNDS_WHEREAMI=Buli fordulók
+PARTY_ROUNDS_LEGEND_CONTINUE=Buli játék indítása
+PARTY_ROUNDCOUNT=Fordulók száma
+PARTY_SELECTMODE=%d. forduló
+
+PARTY_ROUND_DESC=Következő játékosok a mikrofonhoz
+PARTY_ROUND_WHEREAMI=Következő forduló
+PARTY_ROUND_LEGEND_CONTINUE=Indul a forduló
+
+PARTY_SONG_WHEREAMI=Buli dalának választása
+PARTY_SONG_LEGEND_CONTINUE=Dal
+PARTY_SONG_MENU=Buli menü
+
+PARTY_SCORE_DESC=Pontok az elöző fordulóból
+PARTY_SCORE_WHEREAMI=Buli pontok
+
+PARTY_WIN_DESC=Nyert a Buli játékban
+PARTY_WIN_WHEREAMI=Buli Nyertes
+PARTY_WIN_LEGEND_CONTINUE=Vissza a főmenübe
+
+PARTY_ROUND=Forduló
+PARTY_ROUND_WINNER=Nyertes
+PARTY_NOTPLAYEDYET=Nem játszott dal
+PARTY_NOBODY=Senki
+NEXT_ROUND=Következő menet:
+
+PARTY_DISMISSED=Hibátlan!
+PARTY_SCORE_WINS=%s
+PARTY_SCORE_WINS2=nyert!
+
+MODE_RANDOM_NAME= Véletlenszerű mód
+MODE_RANDOM_DESC= Egy mód, amit kiválasztva véletlenszerű a választás
+
+MODE_HOLDTHELINE_NAME= Tartsd a helyezésed
+MODE_HOLDTHELINE_DESC= Ne csinálj rosszabb pontszámot mint az elözőek, mert nem jelensz majd meg a Toplistán.
+
+MODE_HOLDTHELINEBLIND_NAME= Tartsd a helyezésed vakon
+MODE_HOLDTHELINEBLIND_DESC= Tartsd a  helyezésed ameddig csak bírod, de a dalszöveg rejtve lesz!
+
+MODE_7000POINTS_NAME= 7000-ig
+MODE_7000POINTS_DESC= Ki éri el a 7000 pontot először?
+
+MODE_7000POINTSBLIND_NAME= Vakon 7000-ig
+MODE_7000POINTSBLIND_DESC= Verseny legalább 7000 pontig, de az értékelés mutatása nélkül!
+
+MODE_5000POINTS_NAME= 5000-ig
+MODE_5000POINTS_DESC= Ki éri el a 5000 pontot először?
+
+MODE_5000POINTSBLIND_NAME= Vakon 5000-ig
+MODE_5000POINTSBLIND_DESC= Verseny legalább 5000 pontig, de az értékelés mutatása nélkül!
+
+MODE_2000POINTS_NAME= 2000-ig
+MODE_2000POINTS_DESC= Ki éri el a 2000 pontot először?
+
+MODE_2000POINTSBLIND_NAME= Vakon 2000-ig
+MODE_2000POINTSBLIND_DESC= Verseny legalább 2000 pontig, de az értékelés mutatása nélkül!
+
+MODE_DUEL_NAME= Ketten
+MODE_DUEL_DESC= Énekelj párbajban 10000 pontig.
+
+MODE_TEAMDUEL_NAME= Csapat duó
+MODE_TEAMDUEL_DESC= Add át a mikrofont! Dolgozzatok össze, hogy magasabb pontszámot szerezzetek, mint a másik csapat!
+
+MODE_BLIND_NAME= Vak kotta mód ketten
+MODE_BLIND_DESC= Énekeljetek ketten kotta nélkül.
+
+MODE_BLINDTOTAL_NAME= Teljes sötétség
+MODE_BLINDTOTAL_DESC= Párbaj, de a jegyzetek és a dalszövegek rejtve vannak. Csak bátraknak!
+
+MODE_1000BLIND_NAME = Vakon +1000
+MODE_1000BLIND_DESC = Szerezz 1000 ponttal többet a jegyzetek nélkül!
+
+MODE_DEAF_NAME = Süketen
+MODE_DEAF_DESC = Gondolod, hogy ismered a jegyzeteket? Tudsz énekelni kíséret nélkül?
+
+MODE_BLINDLYRICS_NAME = Dalszöveg nélkül
+MODE_BLINDLYRICS_DESC = Gondolod, hogy ismered az összes dalszöveget? Énekelj dalszövegek mutatása nélkül!
+
+MODE_500BLIND_NAME = Vakon +500
+MODE_500BLIND_DESC = Szerezz 500 ponttal többet a jegyzetek nélkül!
+
+MODE_SHORTSONG_NAME = Rövid dal
+MODE_SHORTSONG_DESC = Gyors ütemben 1v1 párbaj a dal feléig!
+
+MODE_HARDCORE_NAME=Kegyetlen
+MODE_HARDCORE_DESC=Harcolj az ellenfeled ellen a háromszoros vezetésért!
+
+STAT_MAIN=Statisztikák
+STAT_MAIN_DESC=Általános
+STAT_MAIN_WHEREAMI=Statisztika
+
+STAT_OVERVIEW_INTRO=%0:s Statisztika.  \n Utolsó telepítés %2:.2d.%1:.2d.%3:d
+STAT_OVERVIEW_SONG=%0:d dal(%3:d Videóval), melyből %1:d lejátszott  és %2:d még nem.\n Legtöbbet hallgatott: %5:s  %4:s című dal.
+STAT_OVERVIEW_PLAYER=A játék kezdetétől %0:d játékos játszott eddig.\n A legjobb játékos: %1:s Átlageredménye: %2:d Pont.\n %3:s Legjobb eredménye: %4:d Pont.
+
+STAT_FORMAT_DATE=%1:.2d.%0:.2d.%2:d
+
+STAT_DETAIL=Statisztika
+STAT_DETAIL_WHEREAMI=Részletes
+
+STAT_NEXT=Következő oldal
+STAT_PREV=Elöző oldal
+STAT_REVERSE=Ellenkező sorrend
+STAT_PAGE=%0:d / %1:d Oldal\n (%2:d of %3:d elem)
+
+STAT_DESC_SCORES=Legjobb eredmény
+STAT_DESC_SCORES_REVERSED=Alacsony pontszám
+STAT_FORMAT_SCORES=%0:s - %1:d  [%2:s] \n (%3:s - %4:s)
+
+STAT_DESC_SINGERS=Legjobb énekesek
+STAT_DESC_SINGERS_REVERSED=Leggyengébb énekesek
+STAT_FORMAT_SINGERS=%0:s \n Átlag pontszám: %1:d
+
+STAT_DESC_SONGS=Közkedvelt dalok
+STAT_DESC_SONGS_REVERSED=Kevésbé kedvelt dalok
+STAT_FORMAT_SONGS=%0:s - %1:s \n %2:dx énekelte
+
+STAT_DESC_BANDS=Közkedvelt együttesek
+STAT_DESC_BANDS_REVERSED=Kevésbé kedvelt együttesek
+STAT_FORMAT_BANDS=%0:s \n %1:dx énekelte
+
+SCREENSHOT_SAVED=Képernyő mentve
+SCREENSHOT_FAILED=Képernyő mentése sikertelen
+
+INFO_FILE_SAVED=Fájl elmentve
+ERROR_SAVE_FILE_FAILED=Fájl mentése sikertelen
+ERROR_FILE_NOT_FOUND=Fájl nem található
+
+ENCODING_ERROR_ASK_FOR_UTF8=A változtatások nem menthetők ebben a kódolásban. Konvertáljuk UTF-8-á?
+EDITOR_ERROR_NO_TRACK_SELECTED=Nincs dal kiválasztva
+
+MSG_ERROR_TITLE=Hiba
+MSG_INFO_TITLE=Infó
+MSG_QUESTION_TITLE=Kérdés
+MSG_QUIT_USDX=Tényleg elhagyod az UltraStar színpadát?
+MSG_END_PARTY=Tényleg kilépsz a Buli módból?
+# MSG_HELP_KEYMAP = Key Mapping
+MSG_HELP_TITLE = Segítség
+
+ERROR_NO_SONGS=Nincsenek dalok a "songs" mappában
+ERROR_NO_PLUGINS=Nincs bővítmény betöltve
+ERROR_NO_MODES_FOR_CURRENT_SETUP=Módok nem állnak rendelkezésre a jelenlegi játékos/csapat beállításaiban
+ERROR_CAN_NOT_START_PARTY=A bulimód megkezdésekor hiba történt
+ERROR_CORRUPT_SONG=Sikertelen dalbetöltés.
+ERROR_CORRUPT_SONG_FILE_NOT_FOUND=Sikertelen dalbetöltés: Dal nem található
+ERROR_CORRUPT_SONG_NO_NOTES=Sikertelen dalbetöltés: Nincs kotta hozzá
+ERROR_CORRUPT_SONG_NO_BREAKS=Sikertelen dalbetöltés: Nincs benne sortörés
+ERROR_CORRUPT_SONG_UNKNOWN_IN_LINE=Sikertelen dalbetöltés: Sikertelen a %0:d sor elemzése.
+ERROR_DUETS_NOT_EDITABLE=A duett dalok jelenleg nem szerkeszthetőek.
+ERROR_NO_EDITOR=Ez a funkció nem érhető el ebben a verzióban
+ERROR_PLAYER_DEVICE_ASSIGNMENT=%d játékosnál több mikrofon lett beállítva. Kérjük ellenőrizze a mikrofon menüpont beállításait.
+ERROR_PLAYER_NO_DEVICE_ASSIGNMENT=%d játékosnál nem lett egy mikrofon sem beállítva. Kérjük ellenőrizd a mikrofon menüpont beállításait.
+
+SING_OPTIONS_NETWORK=Hálózat
+SING_OPTIONS_NETWORK_WHEREAMI=Hálózat beállításai
+SING_OPTIONS_NETWORK_DESC=Hálózat beállítása
+SING_OPTIONS_NETWORK_INSERT_USER_INFO=Kattints a "Beszúrás" gombra a felhasználó felvételéhez ezen a hálózaton...
+SING_OPTIONS_NETWORK_WEBSITE=Weboldal
+SING_OPTIONS_NETWORK_USERNAME=Felhasználónév
+SING_OPTIONS_NETWORK_PASSWORD=Jelszó
+SING_OPTIONS_NETWORK_SEND_SAVE_PLAYER_NAME=Név küldése
+SING_OPTIONS_NETWORK_AUTO_MODE=Automatikus
+SING_OPTIONS_NETWORK_AUTO_PLAYER=Játékos
+# SING_OPTIONS_NETWORK_AUTO_SCORE_EASY=Auto-Send (Easy)
+# SING_OPTIONS_NETWORK_AUTO_SCORE_MEDIUM=Auto-Send (Medium)
+# SING_OPTIONS_NETWORK_AUTO_SCORE_HARD=Auto-Send (Hard)
+# SING_OPTIONS_NETWORK_NO_DLL=No compatible leaderboard-plugin found!
+# SING_OPTIONS_NETWORK_DELETE_PLAYER=Really delete the user %0:s of the website %1:s?
+SING_OPTIONS_NETWORK_LEGEND_INSERT=Beszúrás
+SING_OPTIONS_NETWORK_LEGEND_DELETE=Törlés
+
+OPTION_PLAYER_1=1. Játékos
+OPTION_PLAYER_2=2. Játékos
+OPTION_PLAYER_3=3. Játékos
+OPTION_PLAYER_4=4. Játékos
+OPTION_PLAYER_5=5. Játékos
+OPTION_PLAYER_6=6. Játékos
+OPTION_ALL_PLAYERS=Mindenki
+OPTION_ALL_SCORES=Mind
+OPTION_VALUE_SAVE=Mentés
+OPTION_VALUE_SEND=Küldés
+
+MSG_INSERT_USER_TITLE=%0:s
+MSG_INSERT_USER_DESC=Töltsd ki a mezőket:
+MSG_INSERT_USER_ADD=Hozzáadás
+MSG_INSERT_USER_CANCEL=Mégsem
+
+WEBSITE_NO_CONNECTION=Nincs weboldal kapcsolat!
+WEBSITE_LOGIN_ERROR=Helytelen bejelentkezés!
+WEBSITE_BLANK_LOGIN=Üres mezők vannak!
+WEBSITE_EXIST_USER=Létező felhasználó
+WEBSITE_ERROR_SCORE=Pontozási hiba!
+WEBSITE_OK_SEND=A pontszám sikeresen elküldve!
+WEBSITE_ERROR_SCORE_DUPLICATED=Meglévő pontszám!
+WEBSITE_ERROR_SONG=Dal nem található!
+WEBSITE_SAVE_SCORE=Pontszám sikeresen elmentve!
+WEBSITE_NO_CONNECTION_SAVE=Nincs weboldal kapcsolat!Mindenképpen mented a felhasználót?
+
+SONG_MENU_REFRESH_SCORES=Pontszám frissítése
+SONG_MENU_REFRESH_SCORES_TITLE=Frissítés
+SONG_MENU_REFRESH_SCORES_NO_WEB=Nincsenek weboldalak!
+SONG_MENU_REFRESH_SCORES_ONLINE=Online
+SONG_MENU_REFRESH_SCORES_FILE=Fájl
+SONG_MENU_REFRESH_SCORES_ALL_WEB=Minden weboldal
+SONG_MENU_REFRESH_SCORES_ALL_SONGS=Minden dal
+SONG_MENU_REFRESH_SCORES_ONLY_SONG=Ez a dal
+SONG_MENU_REFRESH_SCORES_REFRESH=Frissítés
+SONG_MENU_REFRESH_SCORES_ERROR_CONNECTION=Hiba történt a webhelyhez való csatlakozáskor: %0:s!
+SONG_MENU_REFRESH_SCORES_ERROR_FILE=Fájl nem található: '%0:s [Eredmények letöltése]'!
+
+SONG_SCORE_MAX=Legjobb:
+SONG_SCORE_MEDIA=Átlagos:
+
+SCORE_SEND_DESC=Eredmény küldése
+SCORE_SEND=Küldés
+SCORE_SEND_PLAYER=Játékos
+SCORE_SEND_OTHER_USER=Más felhasználónév
+SCORE_SAVE=Mentés
+
+SCORE_DOWNLOAD_TITLE=Letöltés
+SCORE_DOWNLOAD_SONG=Dal:
+SCORE_DOWNLOAD_CREATE_LIST=Lista készítése...
+SCORE_DOWNLOAD_RECEIVE_LIST=Letöltés...
+SCORE_DOWNLOAD_CANCEL=Mégsem
+SCORE_DOWNLOAD_OK=OK
+SCORE_DOWNLOAD_SONG_UPDATE=%0:d dal kiválasztva az internetről!
+
+SING_OPTIONS_GAME_SHOWSCORES=Eredmények mutatása
+OPTION_VALUE_WHENEXIST=Amikor van
+
+PARTY_SELECT_MODE=Mód
+PARTY_MODE_CLASSIC=Klasszikus
+PARTY_MODE_CLASSIC_FREE=Szabad klasszikus
+PARTY_MODE_CHALLENGE=Kihívás
+PARTY_MODE_TOURNAMENT=Bajnokság
+PARTY_MODE_JUKEBOX=Zenedoboz
+PARTY_MODE_NOT_AVAILABLE=Nem elérhető!
+
+PARTY_MODE_TOURNAMENT_PLAYER_DESC=Válaszd ki a játékosok számát, és írd be a neveiket
+PARTY_MODE_TOURNAMENT_PLAYER_WHEREAMI=Buli bajnokság
+PARTY_MODE_TOURNAMENT_NUMBER_PLAYERS=Játékosok száma
+PARTY_MODE_TOURNAMENT_OPTIONS_DESC=Fordulók száma
+PARTY_MODE_TOURNAMENT_OPTIONS_WHEREAMI=Bajnokság beállításai
+PARTY_MODE_TOURNAMENT_ROUNDS_FINAL=Utolsó forduló
+PARTY_MODE_TOURNAMENT_ROUNDS_2FINAL=Elődöntők
+PARTY_MODE_TOURNAMENT_ROUNDS_4FINAL=Negyeddöntők
+PARTY_MODE_TOURNAMENT_ROUNDS_8FINAL=Legjobb 8 közé kerülés
+PARTY_MODE_TOURNAMENT_ROUNDS_DESC=Következő játékosok a mikrofonhoz
+PARTY_MODE_TOURNAMENT_ROUNDS_WHEREAMI=Buli bajnokság fordulók
+PARTY_MODE_TOURNAMENT_WIN_DESC=Forduló eredménye
+PARTY_MODE_TOURNAMENT_CHAMPION=A bajnok: %0:s!
+
+EDIT_TITLE=Cím:
+EDIT_ARTIST=Előadó:
+EDIT_LANGUAGE=Nyelv:
+EDIT_EDITION=Kiadás:
+EDIT_GENRE=Műfaj:
+EDIT_YEAR=Év:
+EDIT_CREATOR=Alkotó:
+EDIT_MP3=MP3:
+EDIT_BPM=BPM:
+EDIT_GAP=GAP:
+EDIT_COVER=Borító:
+EDIT_BACKGROUND=Háttér:
+
+EDIT_VIDEO=Videó:
+EDIT_VIDEOGAP=Videogap:
+EDIT_BPM=BPM:
+EDIT_GAP=GAP:
+EDIT_STARTTAG=Indít:
+EDIT_MEDLEYSTART=Egyveleg indítása:
+EDIT_PREVIEWSTART=Előnézet:
+EDIT_ENDTAG=Vége:
+EDIT_MEDLEYEND=Egyveleg vége:
+EDIT_RELATIVE=Relatív:
+EDIT_START=Indít:
+EDIT_DURATION=Hossza:
+EDIT_TONE=Tónus:
+EDIT_LYRIC=Dalszöveg:
+# EDIT_VIDEOGAP=Video Gap:
+EDIT_VOLUME_AUDIO=Audió hangerő:
+EDIT_VOLUME_MIDI=Midi hangerő:
+EDIT_VOLUME_CLICK=Kattintás hangerő:
+EDIT_INFO_UNDO=Utolsó művelet visszavonása
+EDIT_INFO_PREVIEW_SET=Előnézet indítása %0.3f s értékre van állítva
+EDIT_INFO_PREVIEW_CLEARED=Előnézet indítási értéke törölve
+EDIT_INFO_NO_MEDLEY_START=Nincs egyveleg indítási ütem (beállítás/törlése A-val)
+EDIT_INFO_MEDLEY_END=Az egyveleg végének értéke %d
+EDIT_INFO_NO_MEDLEY_END=Nincs egyveleg vége ütem (beállítás/törlése A-val)
+EDIT_INFO_MEDLEY_START=Az egyveleg indítási értéke %d
+EDIT_INFO_MEDLEY_LENGTH=Egyveleg hossza: %0.2f s %s
+EDIT_INFO_MEDLEY_CUSTOM=(egyedi)
+EDIT_INFO_MEDLEY_TXT=(txt)
+EDIT_INFO_MEDLEY_START_CLEARED=Egyveleg kezdete törölve
+EDIT_INFO_MEDLEY_START_SET=Egyveleg kezdetének beállítása
+EDIT_INFO_MEDLEY_END_CLEARED=Egyveleg vége törölve
+EDIT_INFO_MEDLEY_END_SET=Egyveleg végének beállítása
+EDIT_INFO_MEDLEY_END_AFTER_MEDLEY_START=Egyveleg vége nincs beállítva (egyveleg indítása után kell lennie)
+EDIT_INFO_SET_MEDLEY_START_FIRST=Egyveleg vége nincs beállítva (egyveleg indítását állítsd be először)
+# EDIT_INFO_JUMPTO_MEDLEY_AND_PLAY=Jump to medley and play
+;TODO: EDIT_INFO_JUMPTO_MEDLEY_START=Jump to medley start
+;TODO: EDIT_INFO_JUMPTO_MEDLEY_END=Jump to medley end
+;TODO: EDIT_INFO_MARKED_FOR_COPY=Line(s) marked for copy
+EDIT_INFO_PASTE_SENTENCE=Mondat beillesztése
+EDIT_INFO_PASTE_TEXT=Szöveg beillesztése
+;TODO: EDIT_INFO_PASTE_NOTES=Paste notes
+;TODO: EDIT_INFO_PASTE_TEXT_NOTES=Paste text and notes
+;TODO: EDIT_INFO_PASTE_SENTENCE_N=Paste sentence (%d lines)
+;TODO: EDIT_INFO_PASTE_TEXT_N=Paste text (%d lines)
+;TODO: EDIT_INFO_PASTE_NOTES_N=Paste notes (%d lines)
+;TODO: EDIT_INFO_PASTE_TEXT_NOTES_N=Paste text and notes (%d lines)
+;TODO: EDIT_INFO_SONG_RELOADED=Song reloaded
+;TODO: EDIT_INFO_DIVIDED_BPM=BPM divided by 2
+;TODO: EDIT_INFO_MULTIPLIED_BPM=BPM multiplied by 2
+;TODO: EDIT_INFO_CAPITALIZATION_CORRECTED=Capitalization corrected
+;TODO: EDIT_INFO_SPACES_CORRECTED=Spaces corrected
+;TODO: EDIT_INFO_PLAY_SONG=Play song
+;TODO: EDIT_INFO_PLAY_SENTENCE_AUDIO=Play sentence audio
+;TODO: EDIT_INFO_PLAY_SENTENCE_MIDI=Play sentence MIDI
+;TODO: EDIT_INFO_PLAY_SENTENCE_AUDIO_AND_MIDI=Play sentence audio and MIDI
+;TODO: EDIT_INFO_PLAY_NOTE_AUDIO=Play note audio
+;TODO: EDIT_INFO_PLAY_NOTE_MIDI=Play note MIDI
+;TODO: EDIT_INFO_DELETE_NOTE=Delete note
+;TODO: EDIT_INFO_DELETE_SENTENCE=Delete sentence
+;TODO: EDIT_INFO_MOVE_TEXT_RIGHT=Move text right
+;TODO: EDIT_INFO_ALL_TONES_INCREASED_BY_SEMITONE=All notes increased by a semitone
+;TODO: EDIT_INFO_ALL_TONES_INCREASED_BY_OCTAVE=All notes increased by an octave
+;TODO: EDIT_INFO_ALL_TONES_DECREASED_BY_SEMITONE=All notes decreased by a semitone
+;TODO: EDIT_INFO_ALL_TONES_DECREASED_BY_OCTAVE=All notes decreased by an octave
+;TODO: EDIT_INFO_FIX_TIMINGS=Timings corrected
+;TODO: EDIT_INFO_JUMPTO_PREVIEW=Jump to preview position
+;TODO: EDIT_INFO_JUMPTO_PREVIEW_AND_PLAY=Jump to preview and play
+;TODO: EDIT_INFO_NO_PREVIEW=No preview set (set/clear with I)
+;TODO: EDIT_INFO_NOTE_SHORTENED_AT_START=Note shortened at start
+;TODO: EDIT_INFO_NOTE_LENGTHENED_AT_START=Note lengthened at start
+;TODO: EDIT_INFO_NOTE_SHORTENED_AT_END=Note shortened at end
+;TODO: EDIT_INFO_NOTE_LENGTHENED_AT_END=Note lengthened at end
+;TODO: EDIT_INFO_NOTE_SHIFTED_LEFT=Note shifted left
+;TODO: EDIT_INFO_NOTE_SHIFTED_RIGHT=Note shifted right
+;TODO: EDIT_INFO_NOTES_SHIFTED_LEFT=All notes shifted left (from current note)
+;TODO: EDIT_INFO_NOTES_SHIFTED_RIGHT=All notes shifted right (from current note)
+;TODO: EDIT_INFO_NOTE_PITCH_DECREASED=Note pitch decreased
+;TODO: EDIT_INFO_NOTE_PITCH_INCREASED=Note pitch increased
+;TODO: EDIT_INFO_NOTE_SET_TO_NORMAL=Note set to normal
+;TODO: EDIT_INFO_NOTE_SET_TO_GOLDEN=Note set to golden
+;TODO: EDIT_INFO_NOTE_SET_TO_FREESTYLE=Note set to freestyle
+;TODO: EDIT_INFO_NOTE_SET_TO_RAP=Note set to rap
+;TODO: EDIT_INFO_NOTE_SET_TO_RAPGOLDEN=Note set to rap golden
+EDIT_INFO_BPM_DECREASED_BY=BPM csökkent
+EDIT_INFO_BPM_INCREASED_BY=BPM növekedett
+EDIT_INFO_GAP_DECREASED_BY=GAP csökkent
+EDIT_INFO_GAP_INCREASED_BY=GAP növekedett
+;TODO: EDIT_INFO_VIDEOGAP_DECREASED_BY=Videogap decreased by
+;TODO: EDIT_INFO_VIDEOGAP_INCREASED_BY=Videogap increased by
+;TODO: EDIT_INFO_NOTE_DIVIDED=Note divided
+;TODO: EDIT_INFO_CONVERTED_TO_SOLO=Song converted to solo (current track)
+;TODO: EDIT_INFO_CONVERTED_TO_DUET=Song converted to duet
+;TODO: EDIT_INFO_SWITCHED_TO_TRACK=Switched to track
+;TODO: EDIT_INFO_LINE_COPIED_TO_TRACK=Line copied to track
+;TODO: EDIT_INFO_LINE_NOT_COPIED=Line NOT copied (not enough space)
+;TODO: EDIT_INFO_LINE_DIVIDED=Line divided at current note
+;TODO: EDIT_INFO_LINES_JOINED=Joined current and next line
+;TODO: EDIT_INFO_LINE_MOVED_TO_TRACK=Line moved to track
+;TODO: EDIT_INFO_LINE_NOT_MOVED=Line NOT moved (not enough space)
+;TODO: EDIT_INFO_EXIT=Do you want to leave the editor without saving?
+;TODO: EDIT_INFO_CURRENT_LINE=Line:
+EDIT_INFO_CURRENT_NOTE=Jegyzet:
+EDIT_INFO_CURRENT_BEAT=Ütem:
+;TODO: EDIT_INFO_MEDLEY_RELATIVE_UNSUPPORTED=Medley with relative timing is not supported!
+;TODO: EDIT_INFO_MEDLEY_DELETED=Medley tags deleted!
+;TODO: EDIT_INFO_DUET_RELATIVE_UNSUPPORTED=Duet with relative timing is not supported!
+;TODO: EDIT_INFO_MEDLEY_DUET_UNSUPPORTED=Medley for duets is not supported!
+;TODO: EDIT_INFO_SYNTAX_ERRORS=This song contains some syntax errors!
+;TODO: EDIT_INFO_NO_MEDLEY_SECTION=No medley section set. Check your txt file or set it with A (start) and SHIFT+A (end).
+EDIT_NOTENAME_C=C
+EDIT_NOTENAME_C_SHARP=C♯
+EDIT_NOTENAME_D=D
+EDIT_NOTENAME_D_SHARP=D♯
+EDIT_NOTENAME_E=E
+EDIT_NOTENAME_F=F
+EDIT_NOTENAME_F_SHARP=F♯
+EDIT_NOTENAME_G=G
+EDIT_NOTENAME_G_SHARP=G♯
+EDIT_NOTENAME_A=A
+EDIT_NOTENAME_A_SHARP=A♯
+EDIT_NOTENAME_B=B
+
+INFO_FILE_SAVED=Fájl elmentve
+# INFO_TIME_FIXED=Timings corrected
+# INFO_CAPITALIZE=Capitalization corrected
+# INFO_EXIT=Do you want leave editor without save ?
+# INFO_SONG_RELOADED=Song reloaded
+# INFO_DIVIDED_BPM=BPM Divided
+# INFO_MULTIPLIED_BPM=BPM Multiplied
+# INFO_PLAY_SONG=Play song
+# INFO_PLAY_SENTENCE=Play sentence
+# INFO_CURRENT_LINE=Line:
+# INFO_CURRENT_NOTE=Note:
+
+INFO_MIDI_CHANNEL_OFF=Csatorna %0:s ki!
+INFO_MIDI_CHANNEL_RESET=Minden csatorna be!
+
+MSG_END_JUKEBOX=Szeretnéd elhagyni a zenedoboz módot?
+JUKEBOX_RANDOM=Véletlenszerű
+JUKEBOX_REPEAT=Ismétlődő
+JUKEBOX_FIND=Keresés:
+JUKEBOX_SORT=Rendezés:
+JUKEBOX_SONGLIST=Dalok listája
+
+SING_ERROR_DUET_MODE_PARTY =Duett! Nem játszható buli módban!
+
+SONG_MENU_SONG=Dal
+SONG_MENU_MEDLEY=Egyveleg
+SONG_MENU_SORTING=Rendezés
+SONG_MENU_EXTRA=Extra
+
+SONG_MENU_NAME_SONG=Dalok menü
+SONG_MENU_NAME_MEDLEY=Egyveleg menü
+SONG_MENU_ADD_SONG=Hozzáad
+SONG_MENU_DELETE_SONG=Töröl
+SONG_MENU_START_MEDLEY=Ének!
+SONG_MENU_START_5_MEDLEY=Énekelj %0:d dalt!
+
+SONG_MENU_NAME_SORTING=Rendezés menü
+SONG_MENU_SORTING_TABS_ON=Rendezés fülek be
+SONG_MENU_SORTING_TABS_OFF=Rendezés fülek ki
+SONG_MENU_SORTING_ALL=Összes
+SONG_MENU_SORTING_DUET=Duett
+SONG_MENU_SORTING_APPLY=Alkalmaz
+
+SING_OPTIONS_WEBCAM=Webkamera
+SING_OPTIONS_WEBCAM_DESC=Webkamera beállítása
+SING_OPTIONS_WEBCAM_WHEREAMI=Webkamera beállításai
+SING_OPTIONS_WEBCAM_ID=Webkamera
+SING_OPTIONS_WEBCAM_RESOLUTION=Felbontás
+SING_OPTIONS_WEBCAM_FPS=Fps
+SING_OPTIONS_WEBCAM_NO_WEBCAM=Nem található webkamera!
+SING_OPTIONS_WEBCAM_FLIP=Megfordítás
+SING_OPTIONS_WEBCAM_EFFECT=Effektek
+SING_OPTIONS_WEBCAM_BRIGHTNESS=Fényerősség
+SING_OPTIONS_WEBCAM_SATURATION=Telítettség
+SING_OPTIONS_WEBCAM_HUE=Színárnyalat
+SING_OPTIONS_WEBCAM_ENABLE_PREVIEW=Előnézet engedélyezése
+SING_OPTIONS_WEBCAM_DISABLE_PREVIEW=Előnézet letiltása
+
+SING_OPTIONS_WEBCAM_EFFECT_NORMAL=Normál
+SING_OPTIONS_WEBCAM_EFFECT_GRAYSCALE=Szürkeárnyalatos
+SING_OPTIONS_WEBCAM_EFFECT_BLACK_WHITE=Fekete-fehér
+SING_OPTIONS_WEBCAM_EFFECT_NEGATIVE=Negatív
+SING_OPTIONS_WEBCAM_EFFECT_BINARY_IMAGE=Bináris kép
+SING_OPTIONS_WEBCAM_EFFECT_DILATE=Nyújtás
+SING_OPTIONS_WEBCAM_EFFECT_THRESHOLD=tűréshatár
+SING_OPTIONS_WEBCAM_EFFECT_EDGES=Szélesség
+SING_OPTIONS_WEBCAM_EFFECT_GAUSSIAN_BLUR=Gauss elmosás
+SING_OPTIONS_WEBCAM_EFFECT_EQUALIZED=Kiegyenlítés
+SING_OPTIONS_WEBCAM_EFFECT_ERODE=Marás
+
+PARTY_PLAYLIST_MANUAL=Kézi kiválasztás
+PARTY_MODE_JUKEBOX_NO_SONGS=A lejátszási lista üres!
+SONG_MENU_OPEN_CATEGORY=Kategória megnyitása
+SONG_MENU_CLOSE_CATEGORY=Kategória bezárása
+SONG_MENU_START_JUKEBOX=Zenedoboz indítása!
+SONG_MENU_NAME_JUKEBOX=Zenedoboz menü
+
+WEBSITE_EXIST_SONG=A dal ehhez a weboldalhoz tartozik: %0:s
+WEBSITE_NOT_EXIST_SONG=A dal egyetlen weboldalhoz sem tartozik!
+
+NAME_PLAYERS_COUNT=Játékosok száma
+NAME_CURRENT_PLAYER=Játékos
+
+SING_OPTIONS_GAME_SONGMENU=Dal menü
+OPTION_VALUE_ROULETTE=Rulett
+OPTION_VALUE_CHESSBOARD=Sakktábla
+OPTION_VALUE_CAROUSEL=Körhinta
+OPTION_VALUE_SLOTMACHINE=Pénzbedobós autómata
+OPTION_VALUE_LIST=Lista
+OPTION_VALUE_MOSAIC=Cím
+
+SING_OPTIONS_JUKEBOX=Zenedoboz
+SING_OPTIONS_JUKEBOX_DESC=Zenedoboz beállítása
+SING_OPTIONS_JUKEBOX_WHEREAMI=Zenedoboz beállításai
+
+OPTION_VALUE_TO_SING=Énekelt rész
+OPTION_VALUE_ACTUAL=Aktuális sor
+OPTION_VALUE_NEXT=Következő sor
+OPTION_VALUE_OTHER=Más
+OPTION_VALUE_FILL=Betű belső része
+OPTION_VALUE_OUTLINE=Betű körvonala
+OPTION_VALUE_GRAY=Szürke
+OPTION_VALUE_WHITE=Fehér
+OPTION_VALUE_TURQUOISE=Türkiz
+OPTION_VALUE_SALMON=Lazac
+OPTION_VALUE_GREENYELLOW=Zöldes sárga
+OPTION_VALUE_LAVENDER=Levendula
+OPTION_VALUE_BEIGE=Bézs
+OPTION_VALUE_TEAL=Zöldeskék
+OPTION_VALUE_ORCHID=Orchidea
+OPTION_VALUE_STEELBLUE=Acél kék
+OPTION_VALUE_PLUM=Szilva
+OPTION_VALUE_CHOCOLATE=Csokoládé
+OPTION_VALUE_GOLD=Arany
+OPTION_VALUE_DARKBLUE=Sötétkék
+OPTION_VALUE_SKY=Égszínkék
+OPTION_VALUE_HARLEQUIN=Tarka
+OPTION_VALUE_CYAN=Cián
+OPTION_VALUE_FLAME=Tűzpiros
+
+JUKEBOX_SONGOPTIONS_VIDEO=Videó beállítások
+JUKEBOX_SONGOPTIONS_VIDEO_ASPECT=Helyzet
+JUKEBOX_SONGOPTIONS_VIDEO_WIDTH=Szélesség
+JUKEBOX_SONGOPTIONS_VIDEO_HEIGHT=Magasság
+JUKEBOX_SONGOPTIONS_LYRIC=Dalszöveg beállítások
+JUKEBOX_SONGOPTIONS_LYRIC_SIZE=Méret
+JUKEBOX_SONGOPTIONS_LYRIC_POSITION=Pozíció
+JUKEBOX_SONGOPTIONS_LYRIC_ALPHA=Dalszöveg élessége
+JUKEBOX_SONGOPTIONS_LYRIC_COLOR=Szín
+JUKEBOX_SONGOPTIONS_LYRIC_LINE=Dalszöveg
+JUKEBOX_SONGOPTIONS_LYRIC_PROPERTY=Összetett betű
+JUKEBOX_SONGOPTIONS_LYRIC_RGB_RED=Piros
+JUKEBOX_SONGOPTIONS_LYRIC_RGB_GREEN=Zöld
+JUKEBOX_SONGOPTIONS_LYRIC_RGB_BLUE=Kék
+
+JUKEBOX_SONGOPTIONS_VIDEO_STRETCH=Nyújtás
+JUKEBOX_SONGOPTIONS_VIDEO_CROP=Levágás
+JUKEBOX_SONGOPTIONS_VIDEO_LETTERBOX=Doboz
+
+JUKEBOX_SONGOPTIONS_SAVE=Mentés
+JUKEBOX_SONGOPTIONS_CLOSE=Bezárás
+JUKEBOX_SONGOPTIONS_DEFAULT=Alapértelmezett
+JUKEBOX_SONGOPTIONS_OPTIONSSAVED=Mentve!
+
+SING_SONG_CREDITS=Készítők
+SING_JUKEBOX=Zenedoboz
+SING_JUKEBOX_DESC=Gyűjtemény meghalgatása
+JUKEBOX_MODE=Zenedoboz Mód
+JUKEBOX_OPTIONS_DESC=Lejátszólista beállítások
+JUKEBOX_OPTIONS_WHEREAMI=Zenedoboz beállíitások
+JUKEBOX_OPTIONS_PLAYLIST=Dallista
+JUKEBOX_OPTIONS_PLAYLIST_MODE=Mód
+
+SING_OPTIONS_ADVANCED_SINGSCORES=Éneklések pontszámai
+SING_OPTIONS_ADVANCED_TOPSCORES=Legjobb eredmények
+OPTION_VALUE_ALL=Összes
+OPTION_VALUE_PLAYER=Játékos
+
+SING_ABOUT=Névjegy
+SING_ABOUT_DESC=Ultrastar Deluxe Névjegye
+ABOUT_MAIN=Névjegy...
+ABOUT_MAIN_DESC=Ultrastar Deluxe
+ABOUT_MAIN_WHEREAMI=Névjegy...
+ABOUT_USDX_CREDITS=Készítők
+ABOUT_OVERVIEW=UltraStar Deluxe egy ingyenes, nyílt forráskódú karaoke program PC-re. A játékélmény hasonló a Sony Computer által forgalmazott SingStar™ termékéhez. Szórakozás, amely eddig kizárólag a Playstation® felhasználói számára volt elérhető. A SingStar™-től eltérően az UltraStar Deluxe lehetővé teszi a felhasználók számára, hogy saját dalokat készítsenek, és saját maguk énekeljék azokat PC-n.\nA forráskód közzétételével lehetővé tettük a játék teljes testreszabhatóságát a szíved vágya szerint.\nAzt módosíthatsz, amit szeretnél a játékban.\nKészíts saját sablonokat, vagy tölts le tartalmakat a közösségi oldalakról, például bővítményeket, ingyenes dalokat vagy kódjavításokat a kibővített szolgáltatásokhoz.\nParti módban ez lehetővé teheti számunkra, hogy akár legfeljebb tizenkét játékos énekelheti kedvenc zenéjén, hogy pontokat szerezzen, a hangmagasságtól és az ének ritmusától függően.
+
